@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rohith.com	TRUE	/	FALSE	1999999999	caf_ipaddr	223.186.53.162
+www.rohith.com	TRUE	/	FALSE	1999999999	country	IN
+www.rohith.com	TRUE	/	FALSE	1999999999	city	Bengaluru"
+

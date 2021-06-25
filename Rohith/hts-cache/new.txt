@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:01:09	137/137	---M--	200	added ('OK')	text/plain	etag:%2260d50d5d-89%22	http://www.rohith.com/robots.txt		(from )
+15:01:09	2522/2522	---M--	200	added ('OK')	text/html	etag:%2260d50d5d-9da%22	http://www.rohith.com/	/storage/emulated/0/HTTrack/Websites/Rohith/www.rohith.com/index.html	(from )
+15:01:11	177620/177620	---M--	200	added ('OK')	text/javascript	etag:%2213698338319340682650%22	https://www.google.com/adsense/domains/caf.js	/storage/emulated/0/HTTrack/Websites/Rohith/www.google.com/adsense/domains/caf.js	(from http://www.rohith.com/)
+15:01:12	387467/387467	---M-Z	200	added ('OK')	application/javascript	etag:%2275b23636856682571cb49d0bba0d964e%22	https://img1.wsimg.com/parking-lander/static/js/2.97e33531.chunk.js	/storage/emulated/0/HTTrack/Websites/Rohith/img1.wsimg.com/parking-lander/static/js/2.97e33531.chunk.js	(from http://www.rohith.com/)
+15:01:12	173616/173616	---M-Z	200	added ('OK')	application/javascript	etag:%2254be7b512ec1f36f9aa3aadec224f025%22	https://img1.wsimg.com/parking-lander/static/js/main.0c15eeb8.chunk.js	/storage/emulated/0/HTTrack/Websites/Rohith/img1.wsimg.com/parking-lander/static/js/main.0c15eeb8.chunk.js	(from http://www.rohith.com/)
